@@ -58,7 +58,8 @@
 - [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
 - [AndroidAnnotations](https://github.com/excilys/androidannotations) - Java annotations with dependency injection at compile time.
 - [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose library containing view injection and threading for Android using annotations.
-- [Transfuse](https://github.com/johncarl81/transfuse) - A Dependency Injection and Integration framework for Google Android.  
+- [Transfuse](https://github.com/johncarl81/transfuse) - A Dependency Injection and Integration framework for Google Android. 
+- [Hilt](https://github.com/googlecodelabs/android-hilt) - Hilt is a dependency injection library for Android that reduces the boilerplate of doing manual dependency injection in your project.  
 
 ### Network
 - [OkHttp](https://github.com/square/okhttp) - An HTTP & HTTP/2 client for Android and Java applications by Square, Inc.
