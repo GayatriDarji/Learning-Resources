@@ -29,3 +29,4 @@ Vogella | http://www.vogella.com/tutorials/android.html
 Android For Devs | http://www.android4devs.com/
 Dev Exchanges | http://www.devexchanges.info/
 Droid Mentor | http://droidmentor.com/
+kotlin weekly | http://www.kotlinweekly.net
